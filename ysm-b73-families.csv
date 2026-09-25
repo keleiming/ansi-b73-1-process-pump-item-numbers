@@ -1,0 +1,7 @@
+series,pattern,family,sizes
+G196,Goulds 3196,STX,"1x1.5-6, 1.5x3-6, 2x3-6, 1x1.5-8, 1.5x3-8 and the 1x1.5-8LF low-flow size"
+G196,Goulds 3196,MTX / LTX,"8 in, 10 in and 13 in sizes from 2x3-8 to 4x6-13, including 3x4-8G, 3x4-10H, 4x6-10H and the LF low-flow sizes. MTX and LTX share casing, impeller and cover; the power-end parts differ."
+G196,Goulds 3196,XLTX,"6x8-13, 8x10-13, 6x8-15, 8x10-15, 8x10-15G"
+D Mark III,Durco Mark III,Group 1,"1.5x1-6, 3x1.5-6, 3x2-6, 1.5x1-8, 3x1.5-8 and the 1.5x1LF-4 and 1.5x1LF-8 low-flow sizes"
+D Mark III,Durco Mark III,Group 2,"8 in, 10 in and 13 in sizes from 3x2-8 to 6x4-13A, including the H and HH high-head hydraulics and the 2x1LF-10 and 3x1.5LF-13 low-flow sizes"
+D Mark III,Durco Mark III,Group 3,"8x6-14A, 10x8-14, 6x4-16, 8x6-16, 8x6-16A, 10x8-16, 10x8-16H, 10x8-17"

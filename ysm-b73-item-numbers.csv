@@ -1,0 +1,20 @@
+series,pattern,item_no,part,ysm_ref_suffix,materials,confirmed_before_order
+G196,Goulds 3196,100,Casing,100,"WCB carbon steel, CF8M (316SS), CD4MCu duplex, CN7M (Alloy 20), Monel, Nickel, Hastelloy B and C, Titanium, Zirconium alloy","Size designation, flange rating and face, drain and gauge tappings"
+G196,Goulds 3196,101,Impeller (open),3,"CF8M, CD4MCu, CN7M (Alloy 20), Monel, Nickel, Hastelloy B and C, Titanium, Zirconium alloy","Size, current trim diameter or duty point, impeller thread from the shaft"
+G196,Goulds 3196,184,Stuffing box cover (packed box),106,"WCB, CF8M, CD4MCu, CN7M, Monel, Nickel, Hastelloy, Titanium","Frame and impeller diameter, gland bolting"
+G196,Goulds 3196,184M,Seal chamber (mechanical seal),"106B, 106F","WCB, CF8M, CD4MCu, CN7M, Monel, Nickel, Hastelloy, Titanium","Standard bore, large bore or taper bore chamber; gland bolting; flush tappings"
+G196,Goulds 3196,108,Frame adapter,108,Ductile iron,Frame and impeller diameter
+G196,Goulds 3196,228,Bearing frame,119,Cast iron; ductile iron for STX,Frame; oil-lubricated or oil-mist; sight glass and drain positions
+G196,Goulds 3196,134,Bearing housing,201,"Per YSM drawing, stated at quotation",Frame; bearing arrangement fitted
+G196,Goulds 3196,241,Frame foot,109,"Per YSM drawing, stated at quotation",Frame and impeller diameter
+G196,Goulds 3196,122,Shaft,"105, 105S","SAE 4140, 316SS, CN7M, Monel, Nickel, Hastelloy, Titanium",Whether a shaft sleeve is fitted (selects the 105 or 105S version); coupling-end diameter and keyway; impeller thread
+G196,Goulds 3196,126,Shaft sleeve,177,"316SS, CN7M, Monel, Nickel, Hastelloy, Titanium",Frame; seal setting dimension
+D Mark III,Durco Mark III,100,Casing,100,"WCB carbon steel, CF8M (316SS), CF3M (316L), CD4MCu duplex, super duplex, CN7M (Alloy 20), Monel, Nickel, Inconel, Hastelloy B and C, Titanium, Zirconium alloy","Size designation, flange rating and face, drain and gauge tappings"
+D Mark III,Durco Mark III,103,Reverse-vane impeller,3,"CF8M, CF3M, CD4MCu, super duplex, CN7M, Monel, Nickel, Inconel, Hastelloy B and C, Titanium, Zirconium alloy","Size designation, current trim diameter or duty point, hub thread from the shaft"
+D Mark III,Durco Mark III,106,Rear cover plate,"106 (variants B, D, E)","WCB, CF8M, CF3M, CD4MCu, super duplex, CN7M, Monel, Nickel, Inconel, Hastelloy, Titanium","Group and impeller diameter; seal chamber type (CBS, CBL, FMS, FML or packed box); gland bolting"
+D Mark III,Durco Mark III,108,Bearing housing adapter,108,Ductile iron,Group and impeller diameter
+D Mark III,Durco Mark III,119,Bearing housing,119,Ductile iron,Group; Mark 3 or Mark 3A; oil-lubricated or oil-mist
+D Mark III,Durco Mark III,201,Bearing carrier,201,"Per YSM drawing, stated at quotation",Group; bearing arrangement fitted
+D Mark III,Durco Mark III,109,Bearing housing foot,109,"Per YSM drawing, stated at quotation",Group and impeller diameter
+D Mark III,Durco Mark III,105,Shaft,"105, 105S","SAE 4140, 316SS",Whether a hook sleeve is fitted (selects the 105 or 105S version); coupling-end diameter and keyway; impeller thread
+D Mark III,Durco Mark III,177,Hook sleeve,177,Wet-end alloy of the pump,Group; seal setting dimension
